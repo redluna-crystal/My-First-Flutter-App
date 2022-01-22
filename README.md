@@ -3,4 +3,4 @@
 
 # outermost main.dart 
 This is the <b>main.dart</b> file of a chat application built with flutter.
-<i>It supports only one-sided chatting</i>
+<i>It supports only one-sided chatting.</i>
